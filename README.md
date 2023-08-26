@@ -7,6 +7,7 @@ using the MERN (MongoDB, Express.js, React, Node.js) stack. This
 application is designed to help users manage their tasks effectively by
 providing a user-friendly interface for creating, updating, and
 organizing tasks.
+view site: https://damitodo.netlify.app/
 
 ## **Table of Contents**
 
